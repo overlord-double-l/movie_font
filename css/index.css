@@ -1,0 +1,68 @@
+header {
+    width: 990px;
+    height: 80px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.logo {
+    float: left;
+    width: 230px;
+    margin-top: 10px;
+}
+
+.logo a {
+    height: 60px;
+    line-height: 180px;
+    display: block;
+    background: url(http://www.beiwo888.com/css/logo.gif) no-repeat;
+    overflow: hidden;
+}
+
+.search {
+    float: left;
+    border: 1px solid;
+    margin-top: 22px;
+    border: 0;
+    margin-left: 50px;
+}
+
+.search .tx {
+    width: 260px;
+    border: solid #EFEFEF;
+    border-width: 1px 1px 1px 0;
+    background: #fff url(http://www.beiwo888.com/css/g.gif) no-repeat 96% 10px;
+}
+
+.search .btn {
+    width: 68px;
+    font-size: 14px;
+    background-color: #656B81;
+    color: #fff;
+    padding: 0;
+    margin: 0 0 0 3px;
+    border: none
+}
+
+.search input{
+    display: inline-block;
+    height: 34px;
+    
+}
+
+.user-info {
+    float: right;
+    margin-top: 22px;
+}
+
+.user-info li {
+    float: right;
+    display: block;
+    width: 87px;
+    height: 30px;
+    font: 700 16px/30px 'Microsoft YaHei';
+}
