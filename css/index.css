@@ -66,3 +66,42 @@ body {
     height: 30px;
     font: 700 16px/30px 'Microsoft YaHei';
 }
+
+.nav {
+    height: 43px;
+    line-height: 42px;
+    background-color: #3E4452;
+    border: none;
+
+}
+
+.clear {
+    clear:both
+}
+
+ .nav ul li a {
+    font-size: 14px;
+    color: #fff;
+   
+}
+
+.nav ul li {
+    padding: 0 14px;
+    display: block;
+    float: left;
+}
+
+.nav ul li:first-child  {
+    border: none;
+    background-color: #E54535;
+}
+
+.nav .hot-types {
+    height: 37px;
+    line-height: 37px;
+    border: 1px solid #E8E8E8
+}
+
+.nav .hot-types p a {
+    padding-left: 10px;
+}
